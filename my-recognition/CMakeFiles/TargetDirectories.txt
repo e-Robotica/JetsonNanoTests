@@ -1,0 +1,3 @@
+/home/jetson-nano-erobotica2/workspace/my-recognition/CMakeFiles/rebuild_cache.dir
+/home/jetson-nano-erobotica2/workspace/my-recognition/CMakeFiles/my-recognition.dir
+/home/jetson-nano-erobotica2/workspace/my-recognition/CMakeFiles/edit_cache.dir

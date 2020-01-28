@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/my-recognition.dir/my-recognition.cpp.o  -o my-recognition /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt -ljetson-inference 
